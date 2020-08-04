@@ -1,6 +1,6 @@
 # Mogo
 
-[Mogo](https://n3ruat1k.github.io/Layout/)
+[Mogo](https://n3ruat1k.github.io/mogo/)
 
 :white_check_mark: **HTML**
 
